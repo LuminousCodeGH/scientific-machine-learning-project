@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Train and test splits
+/data/*_test.csv
+/data/*_train.csv
