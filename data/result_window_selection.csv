@@ -1,0 +1,17 @@
+size,windows,best_params,best_score,stdev
+0,(),"OrderedDict({'criterion': 'gini', 'max_depth': 29, 'max_features': 'log2', 'min_samples_leaf': 67, 'n_estimators': 285})",0.6737422778158518,0.03695514309335234
+1,"(9,)","OrderedDict({'criterion': 'gini', 'max_depth': 45, 'max_features': 'log2', 'min_samples_leaf': 67, 'n_estimators': 300})",0.6970544348771638,0.03544551520770715
+1,"(3,)","OrderedDict({'criterion': 'log_loss', 'max_depth': 28, 'max_features': 'log2', 'min_samples_leaf': 57, 'n_estimators': 195})",0.6852905288167286,0.036993008047230935
+1,"(5,)","OrderedDict({'criterion': 'gini', 'max_depth': 40, 'max_features': 'log2', 'min_samples_leaf': 63, 'n_estimators': 155})",0.6878028019024492,0.037507930633673935
+1,"(7,)","OrderedDict({'criterion': 'log_loss', 'max_depth': 24, 'max_features': 'log2', 'min_samples_leaf': 59, 'n_estimators': 275})",0.6933636960655182,0.03615436647237438
+2,"(9, 3)","OrderedDict({'criterion': 'gini', 'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 45, 'n_estimators': 270})",0.6971117960212092,0.03426148718308575
+2,"(9, 5)","OrderedDict({'criterion': 'log_loss', 'max_depth': 40, 'max_features': 'log2', 'min_samples_leaf': 61, 'n_estimators': 175})",0.6949042498308294,0.03503557449163892
+2,"(9, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 29, 'max_features': 'log2', 'min_samples_leaf': 57, 'n_estimators': 220})",0.6954056199163381,0.03258803659774734
+2,"(3, 5)","OrderedDict({'criterion': 'gini', 'max_depth': 28, 'max_features': 'log2', 'min_samples_leaf': 45, 'n_estimators': 210})",0.6880561003406911,0.03537237050028189
+2,"(3, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 40, 'max_features': 'log2', 'min_samples_leaf': 57, 'n_estimators': 220})",0.6927854550130708,0.035883813415721756
+2,"(5, 7)","OrderedDict({'criterion': 'gini', 'max_depth': 42, 'max_features': 'log2', 'min_samples_leaf': 61, 'n_estimators': 290})",0.6914171500951994,0.03476554690534284
+3,"(9, 3, 5)","OrderedDict({'criterion': 'entropy', 'max_depth': 36, 'max_features': 'log2', 'min_samples_leaf': 69, 'n_estimators': 255})",0.6950407090165781,0.03407441098794342
+3,"(9, 3, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 24, 'max_features': 'log2', 'min_samples_leaf': 71, 'n_estimators': 140})",0.6951562813178935,0.033136837062289475
+3,"(9, 5, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 29, 'max_features': 'log2', 'min_samples_leaf': 59, 'n_estimators': 260})",0.6937269670113896,0.032690164381484955
+3,"(3, 5, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 44, 'max_features': 'log2', 'min_samples_leaf': 53, 'n_estimators': 295})",0.6913557359153811,0.03434921768915111
+4,"(9, 3, 5, 7)","OrderedDict({'criterion': 'entropy', 'max_depth': 31, 'max_features': 'log2', 'min_samples_leaf': 53, 'n_estimators': 250})",0.6931238926161163,0.03236985680323979
