@@ -1,0 +1,2 @@
+size,windows,best_params,best_score,stdev
+0,(),"OrderedDict({'criterion': 'gini', 'max_depth': 5, 'max_features': 'log2', 'min_samples_leaf': 67, 'n_estimators': 50})",0.6873095706485828,0.03936139880370855
